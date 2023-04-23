@@ -50,3 +50,11 @@ table {
 
 
 /* Write your css below here */
+
+footer{
+	background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
